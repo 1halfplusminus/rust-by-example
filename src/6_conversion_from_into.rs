@@ -13,7 +13,7 @@ impl From<i32> for Number {
 
 impl Into<i32> for Number {
     fn into(self) -> i32 {
-        return self.value;
+        return self.value;  
     }
 }
 fn main() {

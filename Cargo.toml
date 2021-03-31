@@ -53,3 +53,15 @@ path =  "src/6_conversion_from_into.rs"
 [[bin]]
 name = "6_try_into"
 path =  "src/6_try_into.rs"
+
+[[bin]]
+name = "6_to_from_string"
+path =  "src/6_to_from_string.rs"
+
+[[bin]]
+name = "6_parsing_a_string"
+path =  "src/6_parsing_a_string.rs"
+
+[[bin]]
+name = "6_expressions"
+path =  "src/6_expressions.rs"
